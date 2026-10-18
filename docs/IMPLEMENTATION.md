@@ -92,7 +92,7 @@ See: chronicles/phase-5-maintenance.md
 
 ## Current State
 
-The template family is stable. All three templates (folio, pamphlet, chapbook) share:
+The template family is stable. The two literary templates (pamphlet, chapbook) share:
 
 - Identical `content/` structure (fully portable)
 - Identical metadata schema in `content/_data/metadata.js`
@@ -100,7 +100,7 @@ The template family is stable. All three templates (folio, pamphlet, chapbook) s
 - Identical OG meta conditional rendering
 
 Pamphlet now additionally supports a `metadata.stylesheet` switch for an
-alternate utilitarian theme (not yet ported to folio/chapbook).
+alternate utilitarian theme (not yet ported to chapbook).
 
 ---
 
@@ -111,7 +111,7 @@ alternate utilitarian theme (not yet ported to folio/chapbook).
 Ideas if needed:
 
 - RSS/Atom feed for chapters
-- sitemap generation (currently absent — folio has it, pamphlet does not)
-- Port utilitarian theme switch to folio/chapbook if adopted there
+- sitemap generation (currently absent)
+- Port utilitarian theme switch to chapbook if adopted there
 - Additional CSS literary features
 - Pagination for long chapter lists
