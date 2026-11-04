@@ -6,7 +6,7 @@ Part of a family of interoperable templates:
 - **eleventy-pamphlet** (this) - minimal, single layout
 - **eleventy-chapbook** - separate layouts, feature-rich
 
-The `content/` directory is portable across the document templates (chapbook, pamphlet, prose-blog, tech-blog) under the [content contract](https://github.com/tepiton/content-fixture/blob/main/CONTENT-CONTRACT.md). Swap templates to change the presentation without touching your content.
+The `content/` directory is portable across the document templates (chapbook, pamphlet, prose-blog, tech-blog) under the [content contract](https://github.com/mimeo-templates/content-fixture/blob/main/CONTENT-CONTRACT.md). Swap templates to change the presentation without touching your content.
 
 ## Quick start
 

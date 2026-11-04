@@ -16,4 +16,4 @@ Built with [Eleventy](https://www.11ty.dev/).
 
 ## Source
 
-[github.com/tepiton/eleventy-pamphlet](https://github.com/tepiton/eleventy-pamphlet)
+[github.com/mimeo-templates/eleventy-pamphlet](https://github.com/mimeo-templates/eleventy-pamphlet)

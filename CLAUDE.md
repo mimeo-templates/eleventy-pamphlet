@@ -2,16 +2,16 @@
 
 ## Project Overview
 
-This is the `eleventy-pamphlet` template repo (`github.com/tepiton/eleventy-pamphlet`), a minimal Eleventy v3 starter for single literary works. It is one of the interoperable document templates, with eleventy-chapbook, prose-blog, and tech-blog (eleventy-folio was retired 2026-10-04):
+This is the `eleventy-pamphlet` template repo (`github.com/mimeo-templates/eleventy-pamphlet`), a minimal Eleventy v3 starter for single literary works. It is one of the interoperable document templates, with eleventy-chapbook, prose-blog, and tech-blog (eleventy-folio was retired 2026-10-04):
 
 - **eleventy-pamphlet** → served from `orobia.lol` (port 8086)
 - **eleventy-chapbook** → served from `orobia.dev` (port 8082)
 
-All live at `/Users/philip/projects/tepiton/TEMPLATES/`.
+All live at `/Users/philip/projects/WEBSITES/mimeo-templates/`.
 
 ## Content Portability
 
-The `content/` directory is portable across the document templates (chapbook, pamphlet, prose-blog, tech-blog) under the content contract (`CONTENT-CONTRACT.md` in tepiton/content-fixture). Drop a `content/` folder into any of them and it renders correctly.
+The `content/` directory is portable across the document templates (chapbook, pamphlet, prose-blog, tech-blog) under the content contract (`CONTENT-CONTRACT.md` in mimeo-templates/content-fixture). Drop a `content/` folder into any of them and it renders correctly.
 
 ### Standardized content/ structure
 
@@ -85,5 +85,5 @@ Both literary templates use `npm start` to serve.
 
 ## Related Sites
 
-- `amalgamedon.com` is a deployed site using the pamphlet template (`/Users/philip/projects/tepiton/amalgamedon.com`)
+- `amalgamedon.com` is a deployed site using the pamphlet template (`/Users/philip/projects/WEBSITES/mimeo-sites/amalgamedon.com`)
 - `esther.lol` is the font/style reference (`/Users/philip/projects/mimeo-sites/esther.lol`)

@@ -164,7 +164,7 @@ act on it).
 
 **Status**: Active
 
-**Context**: The shared content contract (tepiton/content-fixture)
+**Context**: The shared content contract (mimeo-templates/content-fixture)
 states `draft: true` is excluded from production builds across the
 four document templates. pamphlet was the only one without the drafts
 preprocessor — a draft chapter would have published. chapbook and the

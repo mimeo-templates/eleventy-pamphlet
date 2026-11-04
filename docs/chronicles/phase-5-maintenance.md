@@ -24,7 +24,7 @@ eleventy template to quiet installs; pamphlet needed the least.
 **What**: `draft: true` files are excluded from production builds,
 matching chapbook and the blogs.
 
-**Why**: The shared content contract (tepiton/content-fixture; mimeo's
+**Why**: The shared content contract (mimeo-templates/content-fixture; mimeo's
 TEMPLATE_CONSOLIDATION pass 2) states drafts are excluded from
 production builds everywhere; pamphlet was the one template without
 the preprocessor.
@@ -64,7 +64,7 @@ gained a full-history checkout for the git-date sort.
 **What**: README.md and CLAUDE.md no longer reference eleventy-folio.
 
 **Why**: folio was retired 2026-10-04 (dek ported to chapbook, repo
-archived) per the consolidation recorded in tepiton/TEMPLATES docs;
+archived) per the consolidation recorded in mimeo-templates docs;
 living docs should name only the four document templates.
 
 **How**: README's family list now names chapbook, pamphlet,
@@ -72,7 +72,7 @@ prose-blog, tech-blog with a content-contract link, and the closing
 line says "Copy it to any of the other document templates". CLAUDE.md
 drops folio from the port list and file-locations table, deletes the
 obsolete folio git-remote note, rewords "all three" claims, adds a
-retirement note, and corrects stale mimeo-sites paths to tepiton/
+retirement note, and corrects stale mimeo-sites paths to mimeo-templates/
 (TEMPLATES, amalgamedon.com). No code changed.
 
 **Decisions**: none new — completes the 2026-10-04 retirement.

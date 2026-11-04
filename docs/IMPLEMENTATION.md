@@ -83,7 +83,7 @@ See: chronicles/phase-4-utilitarian-theme.md
   description-mark preprocessor, `breaks: true`, spine/log themes,
   opt-in `sortBy: "date"`
 - Folio-reference cleanup (2026-10-09): purged retired eleventy-folio
-  from README.md and CLAUDE.md (four-template family, tepiton/ paths),
+  from README.md and CLAUDE.md (four-template family, mimeo-templates/ paths),
   completing the 2026-10-04 retirement
 
 See: chronicles/phase-5-maintenance.md
